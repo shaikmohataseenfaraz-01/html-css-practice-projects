@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.card {
+    text-align: center;
+}
+.background {
+    background-image: url("https://img.freepik.com/free-photo/business-women-signature-document_1388-90.jpg?w=1060&t=st=1660908407~exp=1660909007~hmac=0aa00eddb8f36f99285f32bc12c756500aa6bc200b4cdc8ab68b6920a0bd6598");
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+.main-heading {
+    font-family: Roboto;
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+}
+.sideheading {
+    text-align: left;
+    font-size: 20px;
+}
+.button {
+    color: white;
+    height: 36px;
+    width: 90px;
+    border-width: 1px;
+    background-color: orange;
+}
+.paragraph {
+    text-decoration: underline;
+}
